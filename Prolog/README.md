@@ -11,7 +11,7 @@ This part, defines several Prolog predicates that describe family relationships.
 It definess two predicates to implement a simple stack-based language.
 
 ##### cmd/3
-Predicate cmd/3, which describes the effect of a command on the stack. That is, the predicate cmd(C,S1,S2) means that executing command C with stack S1 produces stack S2.
+Predicate `cmd/3`, which describes the effect of a command on the stack. That is, the predicate `cmd(C,S1,S2)` means that executing command C with stack S1 produces stack S2.
 
 ##### prog/3
-Predicate prog/3, which describes the effect of a program on the stack. That is, the predicate prog(P,S1,S2) means that executing program P with stack S1 produces stack S2.
+Predicate `prog/`3, which describes the effect of a program on the stack. That is, the predicate `prog(P,S1,S2)` means that executing program P with stack S1 produces stack S2.
