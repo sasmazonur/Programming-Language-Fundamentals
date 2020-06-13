@@ -18,6 +18,5 @@ Upon completing the course, students are expected to be able to:
 * 7.Design and implementa logic program, usingqueriesover recursively definedpredicates, froman informal specification and example results.
 
 #### References
-Course thought by: Xiaoli Fern
-http://web.engr.oregonstate.edu/~xfern/classes/cs434/
+Course thought by: Jeffrey Young
 
